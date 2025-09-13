@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Yiheng XUE. I graduated from Southern University of Science and Technology (SUSTech) in 2019 with a B.Eng. degree and later earned my M.Res. from the University of Liverpool and the Huzhou Institute of Zhejiang University.
-- 👀 I’m passionate about Computer Vision, Robotics, and Novel View Image Synthesis.
-- 🌱 I’m currently focused on learning object manipulation.
-- 🚶 I’m preparing to pursue my PhD in the UK, likely starting in October 2024.
+- 👋 Hi, I’m Yiheng XUE. I graduated from Southern University of Science and Technology (SUSTech) in 2019 with a B.Eng. degree, and my M.Res. from the University of Liverpool and Huzhou Institute of Zhejiang University in 2024. I worked in SUSTech, HiZJU, Boundary.ai, OMOWay before, I am AI engineer@Jabbr currently.
+- 👀 I’m passionate about Machine Learning, AI, Computer Vision, and Novel View Image Synthesis.
+- 🌱 I’m currently focused on Robotics, Perception, AD-Driving.
 
 
 <!---
